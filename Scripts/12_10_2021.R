@@ -1,4 +1,4 @@
-# Import des données
+# Import des données 
 library(tidyverse)
 data <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2021/2021-10-12/capture-fishery-production.csv')
 
