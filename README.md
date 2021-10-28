@@ -7,3 +7,8 @@
 + **Week 41 (12/10/2021)**
 
 [![Visualisation](https://github.com/DianeThy/tidy_tuesday/blob/main/Visualisations/12_10_2021.png)](https://github.com/DianeThy/tidy_tuesday/blob/main/Scripts/12_10_2021.R)
+
+
++ **Week 42 (19/10/2021)**
+
+[![Visualisation](https://github.com/DianeThy/tidy_tuesday/blob/main/Visualisations/19_10_2021.png)](https://github.com/DianeThy/tidy_tuesday/blob/main/Scripts/19_10_2021.R)
